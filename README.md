@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Regw03
+I am an aspiring Full Stack Software Engineer. 
+in the winter of 2022 I enrolled in 10 month online Full Stack Engineering Bootcamp at Practicum by Yandex. Im currently studying in the program looking to graduate in January  2023. The curricullum provides plethor of projects aimed at becoming a full stack engineer. Using technologies such as: HTML5, CSS3, JavaScript, React, GitBash, GitHub, Figma, Form validation, 
+
+👋 Hi, I’m @Regw03
 - 👀 I’m interested in video games, Soccer, Hunting and Fishing. 
 - 🌱 I’m currently learning Web Development/ Full Stack development at Practicum by Yandex. 
 - 💞️ I’m looking to collaborate on developing web and app projects.
