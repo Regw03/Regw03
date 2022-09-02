@@ -1,5 +1,5 @@
-Hi my name is Reg Wemple I am an aspiring Full Stack Software Engineer. 
-In the winter of 2022 I enrolled in 10 month online Full Stack Engineering Bootcamp at Practicum by Yandex. Im currently studying in the program looking to graduate in January  2023. The curricullum provides plethora of projects aimed at becoming a full stack engineer. Using technologies such as: HTML5, CSS3, JavaScript, React, GitBash, GitHub, Figma, Form validation, 
+Hi my name is Reg Wemple I am an Driven Full Stack Software Engineer. 
+In the winter of 2022 I enrolled in 10 month online Full Stack Engineering Bootcamp at Practicum Boot Camp. Im currently studying in the program looking to graduate in January  2023. The curricullum provides plethora of projects aimed at becoming a full stack engineer. Using technologies such as: HTML5, CSS3, JavaScript, React, GitBash, GitHub, Figma, Form validation, 
 
 👋 Hi, I’m Reg Wemple
 - 👀 I’m interested in video games, Soccer, Hunting and Fishing. 
